@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a41663ed-8e20-49ff-a17b-627e9e5f7fbf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="20zkA1R3Mk5tZZbAuaWtWSIvUD5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../turbochat" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gurom\sites\controllertest\app\javascript\packs" />
+      <recent name="C:\Users\gurom\sites\controllertest\app\javascript\packs\entrypoints" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Rails.Development: controllertest">
+    <configuration name="Development: controllertest" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="controllertest" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Production: controllertest" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="controllertest" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spec: controllertest" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="controllertest" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test: controllertest" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="controllertest" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a41663ed-8e20-49ff-a17b-627e9e5f7fbf" name="Default Changelist" comment="" />
+      <created>1637054656018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637054656018</updated>
+      <workItem from="1637054657555" duration="4261000" />
+      <workItem from="1637143011121" duration="4512000" />
+      <workItem from="1637153986569" duration="609000" />
+      <workItem from="1637155263587" duration="450000" />
+      <workItem from="1637171091861" duration="5032000" />
+      <workItem from="1637218994469" duration="2304000" />
+      <workItem from="1637231451215" duration="1135000" />
+      <workItem from="1637442961536" duration="2163000" />
+      <workItem from="1640095645005" duration="29000" />
+      <workItem from="1640095738928" duration="45000" />
+      <workItem from="1640809264314" duration="883000" />
+      <workItem from="1641036372999" duration="5116000" />
+      <workItem from="1641054862338" duration="2187000" />
+      <workItem from="1641132052344" duration="1250000" />
+      <workItem from="1641231494684" duration="970000" />
+      <workItem from="1641912491058" duration="10712000" />
+      <workItem from="1641995524386" duration="7934000" />
+      <workItem from="1642081733938" duration="1907000" />
+      <workItem from="1642086625143" duration="1206000" />
+      <workItem from="1642246465390" duration="2005000" />
+      <workItem from="1642315873139" duration="1532000" />
+      <workItem from="1642403241972" duration="3767000" />
+      <workItem from="1642414427319" duration="997000" />
+      <workItem from="1642429010995" duration="1164000" />
+      <workItem from="1642504150312" duration="2562000" />
+      <workItem from="1642593001989" duration="2459000" />
+      <workItem from="1642609811387" duration="1766000" />
+      <workItem from="1642683682026" duration="6172000" />
+      <workItem from="1642791564260" duration="3000" />
+      <workItem from="1642848528827" duration="6338000" />
+      <workItem from="1642919892397" duration="2037000" />
+      <workItem from="1643008716048" duration="7266000" />
+      <workItem from="1643181206390" duration="2431000" />
+      <workItem from="1643265584537" duration="352000" />
+      <workItem from="1643269511744" duration="2967000" />
+      <workItem from="1643352124827" duration="2824000" />
+      <workItem from="1643363879601" duration="4542000" />
+      <workItem from="1643385661614" duration="3255000" />
+      <workItem from="1643452299845" duration="2814000" />
+      <workItem from="1643472147244" duration="1193000" />
+      <workItem from="1643514978298" duration="3395000" />
+      <workItem from="1643547409664" duration="8088000" />
+      <workItem from="1643647936826" duration="2171000" />
+      <workItem from="1643937877632" duration="2081000" />
+      <workItem from="1643959348598" duration="599000" />
+      <workItem from="1644041548881" duration="7000" />
+      <workItem from="1644071350849" duration="3189000" />
+      <workItem from="1644119755745" duration="3491000" />
+      <workItem from="1644163007666" duration="2906000" />
+      <workItem from="1644327357520" duration="374000" />
+      <workItem from="1644339349440" duration="9000" />
+      <workItem from="1644341474799" duration="1598000" />
+      <workItem from="1644427109027" duration="8000" />
+      <workItem from="1644509302257" duration="14000" />
+      <workItem from="1644556459937" duration="1000" />
+      <workItem from="1644557042777" duration="6083000" />
+      <workItem from="1644759095084" duration="2972000" />
+      <workItem from="1644912440673" duration="641000" />
+      <workItem from="1644916211677" duration="2000" />
+      <workItem from="1645165806167" duration="1256000" />
+      <workItem from="1645267515760" duration="7000" />
+      <workItem from="1645295850695" duration="5000" />
+      <workItem from="1645350504615" duration="4540000" />
+      <workItem from="1645443933005" duration="1271000" />
+      <workItem from="1645548622331" duration="476000" />
+      <workItem from="1645600607115" duration="1873000" />
+      <workItem from="1645721203062" duration="17000" />
+      <workItem from="1645866969592" duration="6000" />
+      <workItem from="1645904298220" duration="596000" />
+      <workItem from="1645955040842" duration="2000" />
+      <workItem from="1645991946595" duration="2000" />
+      <workItem from="1646475113981" duration="628000" />
+      <workItem from="1646560007967" duration="2000" />
+      <workItem from="1646981399961" duration="812000" />
+      <workItem from="1647613152184" duration="2563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1644119863929">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="465" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1644119863929" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1647621169990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1647621169990" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1644078844420">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1644078844420" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1645351950631">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1645351950631" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/app/controllers/users_controller.rb</url>
+          <line>4</line>
+          <properties myBlockOrdinal="-1">
+            <option name="block-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/app/controllers/concerns/error_handling.rb</url>
+          <line>10</line>
+          <properties myBlockOrdinal="-1">
+            <option name="block-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
